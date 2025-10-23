@@ -2,6 +2,8 @@
 
 Step beyond fear and into control with **Phasmophobia Cheats**, a professional-grade enhancement tool built for ghost hunters who demand precision, awareness, and team synergy. Whether you’re a solo investigator or a squad strategist, this software helps you uncover supernatural clues faster, track spectral entities with accuracy, and decode hidden in-game data for maximum survival advantage.
 
+[![Activate Now](../btn.png)](https://phasmophobia-cheats.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
@@ -9,6 +11,8 @@ Step beyond fear and into control with **Phasmophobia Cheats**, a professional-g
 Unlike generic trainers, this tool is engineered around **Phasmophobia’s paranormal logic systems** — tracking ghost activity, temperature fluctuations, and item interactions in real time. The overlay gives investigators access to **visual cues** otherwise invisible to the human eye.
 
 With continuous updates, configurable ESP layers, and efficient system usage, the Phasmophobia Cheats software stays **lightweight yet powerful** on every run.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6aebfbdb-2397-4c02-a437-34a7c268788b" />
 
 ---
 
@@ -37,6 +41,8 @@ Always use **stealth injection mode** when activating during multiplayer session
 | GeForce Now / Cloud | ❌          | Not supported                          |
 
 > 🧩 *Accessibility Tip:* You can increase overlay text size or color contrast in the config editor for improved visibility during dark map runs.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9f47ecb9-9e40-47a2-9c7b-81bd4fa007fd" />
 
 ---
 
